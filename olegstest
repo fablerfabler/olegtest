@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+  <script>
+    'use strict';
+
+      let name = prompt ('ты кто по масти?','петух');
+      alert (`Да кому ты пиздишь,${name} он, все знают что ты петух!`);
+   
+  </script>
+
+</body>
+</html>
